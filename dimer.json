@@ -1,0 +1,10 @@
+{
+  "subdomain": "spirit-fish",
+  "cname": "",
+  "defaultVersion": "master",
+  "versions": {
+    "master": "docs/master"
+  },
+  "theme": "default",
+  "themeSettings": {}
+}
