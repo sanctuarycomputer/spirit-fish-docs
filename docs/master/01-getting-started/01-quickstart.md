@@ -27,6 +27,8 @@ If you're using Cloudfront's Lambda@Edge, you'll need to Whitelist the custom he
 [/warn]
 
 ```js
+// Using Node 8.10
+
 const path = require('path');
 
 const spiritFish = ({ rendererURI, event, ssl }) => {
