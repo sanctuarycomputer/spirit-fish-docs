@@ -6,5 +6,14 @@
     "master": "docs/master"
   },
   "theme": "default",
-  "themeSettings": {}
+  "themeSettings": {
+    "logoUrl": "./assets/logo.svg",
+    "headerBg": "#BBDBDC",
+    "linkColor": "#F2746F",
+    "navbar": {
+      "Home": "https://www.spirit.fish",
+      "Get Started": "https://www.spirit.fish/auth/github",
+      "Login": "https://www.spirit.fish/auth/github"
+    }
+  }
 }
